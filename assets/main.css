@@ -1,0 +1,26 @@
+/* (c) Orbisius.com */
+
+.ecommerce_dashboard_container .hide {
+    display: none;
+}
+
+.ecommerce_dashboard_container .app_success {
+    color:green;
+}
+
+.ecommerce_dashboard_container .app_error, .ecommerce_dashboard_admin_wrapper .app_error {
+    color:red;
+}
+
+.ecommerce_dashboard_container .result {
+    padding:3px;
+    background: #ffff99;
+}
+
+.ecommerce_dashboard_table tr td {
+    vertical-align: top;
+}
+
+.ecommerce_dashboard_table tr.odd td {
+    background: #eee;
+}
